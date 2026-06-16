@@ -39,7 +39,7 @@ Tabela comparativa entre BST, AVL, Rubro-Negra e N-ária considerando número de
 ```
 /
 ├── README.md
-└── arvores.md
+└── trabalho-arvores.md
 ```
 
 ---
